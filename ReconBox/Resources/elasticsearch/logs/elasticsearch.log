@@ -1,0 +1,15 @@
+[2013-08-17 02:55:09,431][INFO ][node                     ] [Venom] version[0.90.3], pid[1184], build[5c38d60/2013-08-06T13:18:31Z]
+[2013-08-17 02:55:09,431][INFO ][node                     ] [Venom] initializing ...
+[2013-08-17 02:55:09,436][INFO ][plugins                  ] [Venom] loaded [], sites []
+[2013-08-17 02:55:11,193][INFO ][node                     ] [Venom] initialized
+[2013-08-17 02:55:11,193][INFO ][node                     ] [Venom] starting ...
+[2013-08-17 02:55:11,274][INFO ][transport                ] [Venom] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/192.168.1.8:9300]}
+[2013-08-17 02:55:14,299][INFO ][cluster.service          ] [Venom] new_master [Venom][EeUUmpIfS-yQgWml7WSvBw][inet[/192.168.1.8:9300]], reason: zen-disco-join (elected_as_master)
+[2013-08-17 02:55:14,348][INFO ][discovery                ] [Venom] elasticsearch/EeUUmpIfS-yQgWml7WSvBw
+[2013-08-17 02:55:14,357][INFO ][http                     ] [Venom] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/192.168.1.8:9200]}
+[2013-08-17 02:55:14,358][INFO ][node                     ] [Venom] started
+[2013-08-17 02:55:14,367][INFO ][gateway                  ] [Venom] recovered [0] indices into cluster_state
+[2013-08-17 02:55:31,460][INFO ][node                     ] [Venom] stopping ...
+[2013-08-17 02:55:31,474][INFO ][node                     ] [Venom] stopped
+[2013-08-17 02:55:31,474][INFO ][node                     ] [Venom] closing ...
+[2013-08-17 02:55:31,478][INFO ][node                     ] [Venom] closed
